@@ -1,7 +1,7 @@
 Homework 1.
 
 	0. Video day1 https://www.youtube.com/watch?v=NQwCADVRf6c&list=PLvmHg49t5OCRjvtGCbvO__33H_y4ArImz&index=1
-		 day2 https://www.youtube.com/watch?v=YFZJm2C6wCk&list=PLvmHg49t5OCRjvtGCbvO__33H_y4ArImz&index=2
+		 ua.artcode.week2.day2 https://www.youtube.com/watch?v=YFZJm2C6wCk&list=PLvmHg49t5OCRjvtGCbvO__33H_y4ArImz&index=2
 		 conditions (if-else) https://youtu.be/UqERkPfgcEw?list=PLvmHg49t5OCSrfmZAhXWn61rZVxwU2Ow5&t=6416
  
 	install jdk 8
