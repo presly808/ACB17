@@ -51,10 +51,14 @@ public class ArrayUtils {
     public static int[] createAndFillRandomArray(int size, int min, int max){
         int[] array = new int[size];
         for (int i = 0; i < size; i++) {
-            array[i] = (int)(min + Math.random() * (max - min));
+            array[i] = generateRandomNum(min, max);
         }
 
         return array;
+    }
+
+    public static int generateRandomNum(int min, int max) {
+        return (int)(min + Math.random() * (max - min));
     }
 
     public static void bubbleSort(int[] array){

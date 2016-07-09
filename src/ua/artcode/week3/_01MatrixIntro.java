@@ -1,5 +1,7 @@
 package ua.artcode.week3;
 
+import ua.artcode.utils.MatrixUtils;
+
 /**
  * Created by serhii on 09.07.16.
  */
@@ -54,6 +56,10 @@ public class _01MatrixIntro {
 
         table[1][2] = String.valueOf(ageIntLada);
 
+        int[][] mat3 = MatrixUtils.generate(5, 5, 0, 100);
+        String mat3Str = MatrixUtils.toString(mat3);
+
+        System.out.println(mat3Str);
 
     }
 
